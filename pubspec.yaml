@@ -57,6 +57,14 @@ flutter:
     - images/logo.png
     - images/dash.png
     - images/Sections.png
+    - images/penci.png
+    - images/Messages.png
+    - images/Favorite.png
+    - images/Help.png
+    - images/provider.png
+    - images/Web.png
+    - images/lock.png
+    - images/Profileicon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
